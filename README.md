@@ -5,5 +5,7 @@ transponder.tv - Generate playable link
 - Register at https://transponder.tv
 - Change 'USERNAME' & 'PASSWORD' in the script to your E-Mail/Password you signed up with
 
- 
+----------
+To-Do
  - Adding TVCatchup
+ - Remove /watch/
