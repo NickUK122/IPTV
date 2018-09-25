@@ -1,2 +1,3 @@
 # IPTV
-transponder.tv - IPTV
+transponder.tv - Generate playable link
+
